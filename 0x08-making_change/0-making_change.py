@@ -3,6 +3,7 @@
 
 import sys
 
+
 def makeChange(coins, total):
     """ Calculate the least bumber of coins needed to
     give change.
